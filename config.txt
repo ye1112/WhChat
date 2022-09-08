@@ -7,7 +7,7 @@
 ##############################
 
 {
-"app_id": "请替换为自己的 appIDwx847c5d538487efc3",
+"app_id": "wx847c5d538487efc3",
 "app_secret": "8fe3102c9e9a5a1a1ccd558501ac67fd",
 
 "template_id": "JAoshiBL-k-OMjEXu7vvIesffWXRPVcTjOSyDzKrxxY",
