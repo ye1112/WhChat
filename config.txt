@@ -1,0 +1,44 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "请替换为自己的 appIDwx847c5d538487efc3",
+"app_secret": "8fe3102c9e9a5a1a1ccd558501ac67fd",
+
+"template_id": "JAoshiBL-k-OMjEXu7vvIesffWXRPVcTjOSyDzKrxxY",
+"user_id": ["Y-fovik-S1112"],
+#"user_id": ["请替换为自己的 微信号 01" , "请替换为自己的 微信号 02"],
+
+"C_ShengFen": "江西",
+"C_ChengShi": "吉安",
+"S_XingZuo": "天蝎座",
+
+"S_Love": "2020-01-01",
+"birthday1": "2001-01-01",
+"birthday2": "1999-01-01",
+
+"C_String01": "可以替换为自己想要的文字 01",
+"C_String02": "可以替换为自己想要的文字 02",
+"C_String03": "可以替换为自己想要的文字 03",
+
+
+# 天气预报
+"API_TQYB":"de51c689592ac85ae12840352b0eee36",
+# 星座运势
+"API_XZYS":"请替换为自己申请的 API接口",
+
+# 早安心语
+"API_ZAXY":"请替换为自己申请的 API接口",
+# 晚安心语
+"API_WAXY":"请替换为自己申请的 API接口",
+
+# 舔狗日记
+"API_TGRJ":"请替换为自己申请的 API接口",
+# 土味情话
+"API_TWQH":"请替换为自己申请的 API接口"
+}
